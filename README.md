@@ -14,3 +14,9 @@
 ### API Reference
 
 * https://spark.apache.org/docs/latest/api/python/reference/index.html
+
+# Github
+
+* https://github.com/itversity
+* Udemy course Data Engineering Essentials Hands-on - SQL, Python and Spark
+  - https://github.com/itversity/data-engineering-spark

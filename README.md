@@ -11,6 +11,10 @@
 * https://spark.apache.org/docs/latest/api/python/
 * https://spark.apache.org/docs/latest/api/python/getting_started/index.html
 
+### Pyspark Tutorial
+
+* https://www.learningjournal.guru/courses/spark/spark-foundation-training/jdbc-data-sources/
+
 # GitHub
 
 * https://github.com/itversity/pyspark

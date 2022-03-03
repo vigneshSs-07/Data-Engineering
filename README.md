@@ -15,6 +15,8 @@
 ### Pyspark Tutorial
 
 * https://www.learningjournal.guru/courses/spark/spark-foundation-training/jdbc-data-sources/
+* Udemy - Data Engineering Essentials using SQL, Python, and PySpark - Section 49
+ 
 
 # GitHub
 
